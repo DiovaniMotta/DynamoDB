@@ -1,0 +1,30 @@
+
+o
+java:S2293W"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÆÚÍ¿
+?
+java:S2140=")Use "java.util.Random.nextInt()" instead.(´ÔÅˆ
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(Õ÷Èûøÿÿÿÿ
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(Ô£¾’
+g
+java:S3457J"Q%n should be used in place of \n to produce the platform-specific line separator.(Ô£¾’
+M	java:S106N"9Replace this use of System.out or System.err by a logger.(³¾Ğ
+N	java:S106P"9Replace this use of System.out or System.err by a logger.(¶º…ğ
+O
+java:S1854W"9Remove this useless assignment to local variable "tasks".(ÆÚÍ¿
+N
+java:S1854V"8Remove this useless assignment to local variable "exec".(¢¬Åí
+?
+java:S1481V")Remove this unused "exec" local variable.(¢¬Åí
+@
+java:S1481W"*Remove this unused "tasks" local variable.(ÆÚÍ¿
+C
+java:S1481Y"-Remove this unused "callable" local variable.(è•íˆ
+N	java:S106s"9Replace this use of System.out or System.err by a logger.(«Ìç
+N	java:S106t"9Replace this use of System.out or System.err by a logger.(Ğ‰‡
+N	java:S106u"9Replace this use of System.out or System.err by a logger.(ÚÍ†¦
+N	java:S106v"9Replace this use of System.out or System.err by a logger.(©Ô³÷
+M	java:S106w"9Replace this use of System.out or System.err by a logger.(á…g
+N	java:S106x"9Replace this use of System.out or System.err by a logger.(ç§µÑ
+N	java:S106y"9Replace this use of System.out or System.err by a logger.(äşÇ
+v
+java:S1128"YRemove this unused import 'org.springframework.boot.autoconfigure.SpringBootApplication'.(Ë”ÖÏ8Ç¼€å0
